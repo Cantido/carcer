@@ -1,6 +1,5 @@
 ---
-tags:
-  - thorn
+tags: []
 aliases:
   - Thorn
 ---

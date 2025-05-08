@@ -1,6 +1,5 @@
 ---
-tags:
-  - gin
+tags: []
 aliases:
   - Gin
 ---

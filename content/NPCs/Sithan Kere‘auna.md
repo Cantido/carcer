@@ -1,0 +1,1 @@
+[[Urutu Kere‘auna|The Emperor]]'s son.

@@ -1,6 +1,5 @@
 ---
-tags:
-  - tula
+tags: []
 aliases:
   - Tula
 ---

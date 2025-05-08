@@ -1,6 +1,5 @@
 ---
-tags:
-  - rhask
+tags: []
 aliases:
   - Rhask
 ---

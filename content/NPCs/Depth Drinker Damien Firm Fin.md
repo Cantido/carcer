@@ -1,0 +1,1 @@
+A powerful Triton who controls the seas around [[Calmond the Rageful]] and ensures trade routes go to him on the island.

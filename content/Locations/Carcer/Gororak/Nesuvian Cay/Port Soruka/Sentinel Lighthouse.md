@@ -1,1 +1,0 @@
-The mayor's office in [[Locations/Carcer/Gororak/Nesuvian Cay/Port Soruka/index|Port Soruka]].

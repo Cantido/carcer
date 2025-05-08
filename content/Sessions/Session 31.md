@@ -15,9 +15,9 @@ We tracked the kobold [[Kozzin Shimmerflick]] back to his den, and convince him 
 
 We suspected a false door built into the shelves, and opened them by solving a puzzle.
 
-In the room behind the shelves, there is a journal on a lectern. The journal has writing about "The Drowned Queen," whom the writer thinks is the first ruler of [[Veltran's Deep]], [[Queen Alendria]]. She is a Triton with a sacred bond to [[Sava'acrama]] (of the shallows). There are notes about where to find her, and about the Five Fathoms. She is the one who hid the Five Fathoms.
+In the room behind the shelves, there is a journal on a lectern. The journal has writing about "The Drowned Queen," whom the writer thinks is the first ruler of [[Veltran's Deep]], [[Queen Alendria]]. She is a Triton with a sacred bond to [[Sava‘acrama]] (of the shallows). There are notes about where to find her, and about the Five Fathoms. She is the one who hid the Five Fathoms.
 
 Since Alendria "drowned," she has been using the Fathoms to reclaim Veltran's Deep. Her sanctum is the Throne of Salted Bone, but it adrift near a gothermal fissure.
 
 We establish our new plan: Find the Drowned Queen.
-First objective: Acquire pressure pearls so that we can survive the deep to reach her. We message [[Lande]] in [[Locations/Carcer/Gororak/Nesuvian Cay/Port Soruka/index]], and he has plenty to sell, but they cost a lot. We will need to earn some money.
+First objective: Acquire pressure pearls so that we can survive the deep to reach her. We message [[Lande]] in [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Soruka/index]], and he has plenty to sell, but they cost a lot. We will need to earn some money.

@@ -1,0 +1,1 @@
+The capital of [[Locations/Carcer/Gororak/index|Gororak]] and the city where the Emperor resides

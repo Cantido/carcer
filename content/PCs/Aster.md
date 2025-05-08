@@ -1,6 +1,5 @@
 ---
-tags:
-  - aster
+tags: []
 ---
 
 Aster!

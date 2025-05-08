@@ -1,1 +1,1 @@
-The leader of [[Locations/Carcer/Gororak/Nesuvian Cay/index]].
+The leader of [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/index]].

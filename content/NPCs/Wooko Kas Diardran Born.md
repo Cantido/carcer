@@ -1,0 +1,1 @@
+A strong fighter who fights for control over part of [[Calmond the Rageful]].

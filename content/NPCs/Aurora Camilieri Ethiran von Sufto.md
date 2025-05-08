@@ -1,0 +1,1 @@
+Queen of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]].
