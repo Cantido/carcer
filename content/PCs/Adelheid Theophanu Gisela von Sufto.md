@@ -1,6 +1,7 @@
 ---
-tags:
-  - ada
+tags: 
+aliases:
+  - Ada
 ---
 
 Ada is gay

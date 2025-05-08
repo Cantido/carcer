@@ -1,1 +1,1 @@
-Has a monopoly on all the pearls in or around [[Port Soruka]].
+Has a monopoly on all the pearls in or around [[Locations/Carcer/Gororak/Nesuvian Cay/Port Soruka/index]].

@@ -1,11 +1,13 @@
 ---
 date: 2025-04-17
+ingamestart: 1221-08-16
+ingameend: 1221-09-08
 ---
 We use Sending to contact [[Sissara]] and set up a meeting at the [[Sultry Shell]]. While we wait for the meeting, we check the bounty board, but there is nothing of note.
 
 We go to the [[Sentinel Lighthouse]] and speak to [[Spring Bloom of the Sunned Sands Clan|Spring Bloom]] about buying [[The Old Mayor's House]]. She offers it for 750 gold, and we will pay it in two payments of 375 gold. We will renovate it.
 
-[[Adelheid Theophanu Gisela von Sufto||Ada]] asks [[Sophia Magdeburg|Sophia]] to handle the renovation.
+[[Adelheid Theophanu Gisela von Sufto|Ada]] asks [[Sophia Magdeburg|Sophia]] to handle the renovation.
 
 Once we meet with Sissara, we ask her to join us on the trip to Wavetide Hollow.
 

@@ -1,1 +1,0 @@
-First ruled by [[Queen Alendria]].

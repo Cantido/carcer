@@ -1,1 +1,1 @@
-The leader of 
+The leader of [[Locations/Carcer/Gororak/Nesuvian Cay/index]].

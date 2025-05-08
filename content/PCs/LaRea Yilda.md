@@ -1,6 +1,7 @@
 ---
-tags:
-  - larea
+tags: 
+aliases:
+  - LaRea
 ---
 
 Larea!

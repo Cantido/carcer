@@ -1,1 +1,1 @@
-Former librarian in [[Suftois]], now companion to the party.
+Former librarian in [[Locations/Carcer/Gororak/Suftois/index]], now companion to the party.
