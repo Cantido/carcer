@@ -1,0 +1,3 @@
+[[Aster]] and [[Saria Nylora|Saria]] have a cute little date, and Aster tells Saria about our plans with [[The Twins]]. We invite her to come with us and she agrees, because she's dreamed of writing history as it happens, and we will be making history.
+
+Later that day, we go out onto the water, and Aster, [[Thorn Slakter|Thorn]], and [[Saragin Zelgath|Gin]] have a religious experience, meeting [[Mahina Kai]], Thorn's patron, and the spirit of death that is pursuing Gin.

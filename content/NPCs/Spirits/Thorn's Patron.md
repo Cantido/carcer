@@ -1,0 +1,1 @@
+Currently unknown what spirit is giving [[Thorn Slakter|Thorn]] his powers, but we suspect it to be [[Sava‘acrama]].
