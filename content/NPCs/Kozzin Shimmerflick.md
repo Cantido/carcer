@@ -1,0 +1,1 @@
+A kobold that the party met at [[Wavetide Hollow]]. He was looting the remnants of the village there. 

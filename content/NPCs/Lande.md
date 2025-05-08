@@ -1,0 +1,1 @@
+Has a monopoly on all the pearls in or around [[Port Soruka]].
