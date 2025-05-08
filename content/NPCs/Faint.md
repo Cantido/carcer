@@ -1,0 +1,1 @@
+(Ex) Mayor of [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Soruka/index|Port Soruka]] who happened to be running a MIST ring and damning, or as he thought, saving the town. He gave us his ship and we banished him from the island.

@@ -1,0 +1,1 @@
+Sells/buys herbs and potions, we gave her a bunch of money from busting [[Faint]] as well as antidotes to the MIST
