@@ -1,0 +1,1 @@
+Cursed with a glass-like body after the massacre at Joelshaw Wharf. It is [[Aster]]'s mission to discover the cause of this ailment and reverse it.
