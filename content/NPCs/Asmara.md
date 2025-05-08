@@ -1,0 +1,1 @@
+Our sponsor for the fights at the [[Azure Amphitheater]] in [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]].

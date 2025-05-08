@@ -4,6 +4,7 @@ aliases:
   - Ada
 ---
 Known as Ada to those close to her.
+
 ## Appearance
 Ada is graceful and beautiful. Wavy, reddish-brown hair frames her face, and is usually kept in a tidy bun while she is working. Her skin is the color of porcelain, and her eyes are a warm brown.
 

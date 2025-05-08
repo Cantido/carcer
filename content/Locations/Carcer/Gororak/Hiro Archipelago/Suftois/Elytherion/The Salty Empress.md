@@ -1,0 +1,1 @@
+A high-end inn offering gourmet seafood and imported wines, frequented by diplomats.
