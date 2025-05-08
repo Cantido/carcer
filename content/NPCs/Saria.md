@@ -1,0 +1,1 @@
+Former librarian in [[Suftois]], now companion to the party.

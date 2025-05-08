@@ -1,0 +1,1 @@
+A professor sent to investigate [[Wavetide Hollow]]'s mysteries, however she began to go mad as she uncovered [[The Five Fathoms]].
