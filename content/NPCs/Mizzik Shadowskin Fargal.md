@@ -1,0 +1,3 @@
+A gnome with a knack for disappearing into thin air—literally. Born in the slums of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/Elytherion/index|Elytherion]], she grew up surviving on scraps and stealing what she needed. Now, she works for [[The Undervein]] as a runner, delivering messages, smuggling small contraband, and spying on rival groups. Her diminutive stature and unassuming appearance make her an excellent infiltrator.
+## Personality
+Cheerful and chatty, Mizzik seems harmless at first glance. Beneath her bubbly exterior, however, is a sharp mind and a deep loyalty to the Undervein. She loves collecting secrets, whether for profit or her own amusement.

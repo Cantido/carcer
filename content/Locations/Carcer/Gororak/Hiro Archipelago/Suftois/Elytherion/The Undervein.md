@@ -1,0 +1,1 @@
+Where the criminal underworld of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]] thrives.

@@ -1,0 +1,1 @@
+Grelia is the enigmatic mastermind behind [[The Undervein]]’s information network. A half-elf with striking violet eyes and shoulder-length silvery hair, she is rarely seen outside her subterranean chambers. She is known for her unparalleled ability to gather intelligence, utilizing a network of spies, informants, and magical means to monitor the city above and below.
