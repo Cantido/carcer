@@ -1,0 +1,1 @@
+Previously a place for making Vourson Mist, now purchased by us as a base of operations in [[Port Soruka]].

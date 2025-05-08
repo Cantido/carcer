@@ -1,0 +1,1 @@
+[[Adelheid Theophanu Gisela von Sufto|Ada]]'s former lady-in-waiting, now girlfriend, who is traveling with us.
