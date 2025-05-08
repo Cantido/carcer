@@ -1,0 +1,3 @@
+We encountered two dragons during a sea voyage, one live and one undead blue dragon. They demand tribute, but we come up short. Instead, we offer to do something for them. They tell us to bring them the ship that killed the undead dragon, which flew the flag of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]]. We have three months to do this, or else [[Rhask Ocomzu|Rhask]] will be killed. The live dragon marks Rhask so they know where we are at all times.
+
+In [[Session 27]], we fulfill this pact and sink the Wavecutter.

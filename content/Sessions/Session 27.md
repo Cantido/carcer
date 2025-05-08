@@ -1,0 +1,5 @@
+The big encounter between us, [[The Twins]], and the Wavecutter, and we fulfill [[The Dragon's Pact]].
+
+After an epic battle, we and The Twins sink the Wavecutter. The dragons bless us with the feat "Gift of the Chromatic Dragon," for lightning damage, and tells us this blessing will remain with us so long as our ship is named for him. We need to rename the ship now, so we choose one of the live twin's titles, the Stormkeeper. We are also all marked with lightning patterns on our skin, wherever on our body we choose.
+
+The live twin tells us a lot about their history. Their lair is [[The Shimmering Caverns]] beneat the mountains of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]]. It is a massive lair, full of treasure. The twins were worshipped, and given tribute, before King [[Trinkerly Vitrex von Sufto]] drove them out of [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index|Suftois]]. The Twins' hatred is directed at the King in particular.
