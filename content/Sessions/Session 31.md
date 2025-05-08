@@ -20,4 +20,4 @@ In the room behind the shelves, there is a journal on a lectern. The journal has
 Since Alendria "drowned," she has been using the Fathoms to reclaim Veltran's Deep. Her sanctum is the Throne of Salted Bone, but it adrift near a gothermal fissure.
 
 We establish our new plan: Find the Drowned Queen.
-First objective: Acquire pressure pearls so that we can survive the deep to reach her. We message [[Lande]] in [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Soruka/index]], and he has plenty to sell, but they cost a lot. We will need to earn some money.
+First objective: Acquire pressure pearls so that we can survive the deep to reach her. We message [[Lande]] in [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Soruka/index|Port Soruka]], and he has plenty to sell, but they cost a lot. We will need to earn some money.
