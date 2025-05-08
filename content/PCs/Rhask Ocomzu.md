@@ -1,9 +1,10 @@
 ---
-tags: []
+tags: 
 aliases:
   - Rhask
+socialImage: https://cantido.github.io/carcer/PCs/images/rhask.png
 ---
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOfFSergHM43pRBEabnc3W35HACnViZ6GOy6rWstD2FRsMSdv0rsuDLO9Z6ake3hqYdwl4r6ocza0ooBNAUU9Hx75GYO-xHravbE07aQsbhtZGsLfQ7GADtySzCnk8wOItPfDYhN3oJ3p_XHMS1H21CmoV?key=U2b-59a3bw5-xKx8m_0cMw)
+![](rhask.png)
 Rhask is gay too.
 
 - Race -  Lizardfolk
