@@ -1,0 +1,1 @@
+A half-elf crew member of our ship The Stormkeeper. Went missing on 1221-07-25 ([[Session 28]]). We reported him to [[The Twins]] and the reported back that they ate him on 1221-09-07 ([[Session 30]]).

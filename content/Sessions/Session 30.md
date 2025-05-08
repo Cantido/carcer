@@ -9,7 +9,7 @@ After traveling south a while, [[Tula Tuga|Tula]] spots a cavern in the rocks on
 
 We soon find [[Velmira Sorrel]] writing on the walls and drawing eyes with chalk. She refuses to cooperate with us, and among the nonsense she repeats "thirty feet" and "five fathoms."
 
-[[Saria]] prepared Comprehend Language, and points out a poem. It's a riddle about freeing someone by collecting [[The Five Fathoms]].
+[[Saria Nylora]] prepared Comprehend Language, and points out a poem. It's a riddle about freeing someone by collecting [[The Five Fathoms]].
 
 [[Aster]] dives into the deeper water in the cavern, and finds the bottom. It is littered with bodies. Among the bodies he finds a bright white ivory coral carving of a spiral. He scoops it up with a piece of clothing, but as he does, a rush of bubbles holds him to the bottom. He messages [[Rhask Ocomzu|Rhask]] who jumps in to help, but is pulled down as well.
 

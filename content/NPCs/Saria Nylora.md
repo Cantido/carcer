@@ -1,1 +1,5 @@
+---
+aliases:
+  - Saria
+---
 Former librarian in [[Locations/Carcer/Gororak/Hiro Archipelago/Suftois/index]], now companion to the party.
