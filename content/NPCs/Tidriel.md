@@ -1,0 +1,1 @@
+The spirit that judges the souls of the dead, sending them to either [[Alihava]] if they are good, or [[Trivaxion]] if they are bad.
