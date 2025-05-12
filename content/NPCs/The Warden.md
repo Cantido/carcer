@@ -1,0 +1,1 @@
+A high authority of the city guard of [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Navira/index|Port Navira]].

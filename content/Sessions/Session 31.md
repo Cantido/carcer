@@ -21,3 +21,5 @@ Since Alendria "drowned," she has been using the Fathoms to reclaim Veltran's De
 
 We establish our new plan: Find the Drowned Queen.
 First objective: Acquire pressure pearls so that we can survive the deep to reach her. We message [[Lande]] in [[Locations/Carcer/Gororak/Hiro Archipelago/Nesuvian Cay/Port Soruka/index|Port Soruka]], and he has plenty to sell, but they cost a lot. We will need to earn some money.
+
+Before we leave the island, we run an experiment: give [[Thorn Slakter|Thorn]] the Veilspine Relic to hold. Upon holding it, he seems to be taken over by [[A'taanari]], and black mist begins creeping up the beach. This soon stops, but Thorn seems to have absorbed the relic, leaving a white spiral on the palm of his hand where he was clutching the relic.
