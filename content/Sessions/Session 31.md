@@ -1,6 +1,6 @@
 ---
 date: 2025-05-01
-ingamestart: 1221-09-08
+fc-date: 1221-09-08
 ---
 We learned more about the spiritual canon of Carcer and Sissara's master:
 - [[Malikarkos]] - The demon of indulgence

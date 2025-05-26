@@ -1,3 +1,9 @@
+---
+fc-date: 1221-09-08
+fc-end: 1221-10-01
+---
+
+
 [[Thorn Slakter|Thorn]] collapses. He feels exhausted, his chest heavy. The visions he saw indicated that [[Veltran's Deep]] is near the surface.
 
 The Veilspine Relic is now a white spiral on Thorn's hand. Now, whenever he places his hand upon the obelisk, his visions direct him along the beam of light it projects, going past Veltran's Deep, towards something much farther away, and much deeper: A labyrinthine structure of coral.

@@ -1,7 +1,7 @@
 ---
 date: 2025-04-24
-ingamestart: 1221-09-07
-ingameend: 1221-09-08
+fc-date: 1221-09-07
+fc-end: 1221-09-08
 ---
 We are at [[Wavetide Hollow]], and decide to search for the artifact that we learned about from [[Velmira Sorrel]]'s notes when we landed.
 
